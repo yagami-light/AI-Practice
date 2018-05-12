@@ -1,1 +1,10 @@
 1.this is tips
+
+
+
+1. download gitKraken
+2. install using dpkg -i debpackage
+3. add access via github
+4. Generate SSH pulbic key
+
+
